@@ -1,4 +1,5 @@
-<h1 align="center">As-salamu alaykum, I'm Shafiul Alam</h1>
+
+<img src= "https://media.licdn.com/dms/image/v2/D5616AQERTRdZVInhgA/profile-displaybackgroundimage-shrink_350_1400/B56ZpGTcWVHkAY-/0/1762116104200?e=1764201600&v=beta&t=njmqBA4iMJmWcIs6G_h-w3r4t2vJ7zeohj9owbcFuXI">
 <h3 align="center">Web Designer Developer & WordPress Specialist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devshafiul&label=Profile%20views&color=0e75b6&style=flat" alt="devshafiul" /> </p>
